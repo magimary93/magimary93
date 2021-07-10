@@ -9,3 +9,6 @@ run -> python manage.py runserver
 migrate -> python manage.py makemigrations
         -> python manage.py migrate
 filter ->  python -m pip install django-filter        
+superuser
+username -> employee_management
+password -> employee_management
